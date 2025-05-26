@@ -80,7 +80,7 @@ A graph is drawn with angle of incidence i along X-axis and the angle of emergen
 - Rotate the Prism Table until the crosswire in the telescope coincides with the slit image (reflected ray). Note the readings on Vernier I and II.
 - To identify the emergent angle i′, rotate the Telescope until the refracted image of the slit from the other face of the prism appears. Align the crosswire with this refracted image and record the Vernier I and II readings.
 - Calculate the angular difference between the direct ray reading and the refracted ray reading to obtain the value of i′.
-- Repeat the procedure for different angles of incidence i, such as $40^{0}$, $45^{0}$, $50^{0}$, and $55^{0}$. Note the corresponding values of i′.
+- Repeat the procedure for different angles of incidence i, such as $40^{0}$, $45^{0}$, $50^{0}$, $55^{0}$, $60^{0}$ and $65^{0}$. Note the corresponding values of i′.
 - Plot a graph between i (on the x-axis) and i′ (on the y-axis) to analyze the relation between angle of incidence and angle of emergence.
 
 
