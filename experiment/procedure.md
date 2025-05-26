@@ -57,10 +57,31 @@ Number of divisions on vernier (v) = ................
 L.C    = N/v = .......................minute
 
 ### Procedure for Real lab
-The telescope is brought in line with the collimator and the image of the slit is viewed through it. The telescope is adjusted to make the vertical cross wire coincides with the image of the slit. The readings of  anyone of the verniers is taken. To set the prism for angle of incidence i of the telescope is rotated through an angle $\theta= (180-2i)$ from the direct reading position and clamped. The prism is mounted on the prism table with its grounded face towards the clamp and is rotated so that its reflecting edge is turned away from the collimator.
+The telescope is brought in line with the collimator and the image of the slit is viewed through it. The telescope is adjusted to make the vertical cross wire coincides with the image of the slit. The readings of  anyone of the verniers is taken. To set the prism for angle of incidence i of the telescope is rotated through an angle $\theta_{2}= (180-2i)$ from the direct reading position and clamped. The prism is mounted on the prism table with its grounded face towards the clamp and is rotated so that its reflecting edge is turned away from the collimator.
 
 Looking through the telescope, the vernier table is rotated as that reflected image of the slit coincides with the vertical crosswire. Now the angle of incidence is equal to I. The vernier table is then fixed.
 
-The telescope is released and is rotated so that the refracted image of the slit is obtained at the vertical cross-wire. The telescope is then fixed in this position. Looking through the telescope with vernier table is rotated in such a direction that the refracted image moves towards the minimum deviation position and then returns to the vertical crosswire. Now, the deviation is the same as before: but the angle of incidence is iÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢. The vernier is clamped. The telescope is released and rotated to obtain the reflected image of the slit at the crosswire. The telescope is fixed and the reading of both the verniers are taken. The telescope is released and is brought to obtain the direct image at its cross wire. The readings of both verniers are taken. The difference between the reflected reading and direct reading ÃƒÅ½Ã‚Â¸2 is found. Now ÃƒÅ½Ã‚Â¸2 = (180-2iÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢). Thus
+The telescope is released and is rotated so that the refracted image of the slit is obtained at the vertical cross-wire. The telescope is then fixed in this position. Looking through the telescope with vernier table is rotated in such a direction that the refracted image moves towards the minimum deviation position and then returns to the vertical crosswire. Now, the deviation is the same as before: but the angle of incidence is i'. The vernier is clamped. The telescope is released and rotated to obtain the reflected image of the slit at the crosswire. The telescope is fixed and the reading of both the verniers are taken. The telescope is released and is brought to obtain the direct image at its cross wire. The readings of both verniers are taken. The difference between the reflected reading and direct reading $\theta_{2}$ is found. Now $\theta_{2} = (180-2i')$. Thus
+
+$$i'=\frac{180-\theta_{2}}{2}$$
+
+The experiment is repeated for various values of i and i' is calculated in each case.
+
+A graph is drawn with angle of incidence i along X-axis and the angle of emergence i' along Y-axis. The graph is a rectangular parabola. from it, angle of incidence corresponding to minimum deviation is calculated.
+
+### Observations and Calculations
+
+![spec9](https://github.com/user-attachments/assets/b1d0405a-8344-4ade-ab22-e986f7d8edce)
+
+### Procedure for simulator
+- Place the prism using the “Place Prism” button.
+- Adjust the Vernier table using the Vernier Table slider so that the 0°–0° reading appears on Vernier I and the 0°–180° reading appears on Vernier II. Note this as the direct ray reading.
+- For an angle of incidence 𝑖, rotate the Telescope to an angle $𝜃_{2}=180^{0}−2𝑖$ degrees. (For example, for an incident angle of $35^{0}$, set the telescope to $110^{0}$  on Vernier I.).
+- Rotate the Prism Table until the crosswire in the telescope coincides with the slit image (reflected ray). Note the readings on Vernier I and II.
+- To identify the emergent angle i′, rotate the Telescope until the refracted image of the slit from the other face of the prism appears. Align the crosswire with this refracted image and record the Vernier I and II readings.
+- Calculate the angular difference between the direct ray reading and the refracted ray reading to obtain the value of i′.
+- Repeat the procedure for different angles of incidence i, such as $40^{0}$, $45^{0}$, $50^{0}$, and $55^{0}$. Note the corresponding values of i′.
+- Plot a graph between i (on the x-axis) and i′ (on the y-axis) to analyze the relation between angle of incidence and angle of emergence.
+
 
 
