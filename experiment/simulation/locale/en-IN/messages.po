@@ -69,7 +69,7 @@ msgstr "Close"
 
 #: experiment.js:249
 msgid "Prism spectrometer"
-msgstr "Spectrometer : i-d Curve"
+msgstr "Spectrometer : i-i' Curve"
 
 #: experiment.js:250
 msgid "Variables"

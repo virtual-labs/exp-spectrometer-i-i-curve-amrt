@@ -1,1 +1,1 @@
-## Experiment name
+## Spectrometer i-i' curve
