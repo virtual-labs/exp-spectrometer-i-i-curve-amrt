@@ -30,7 +30,7 @@ The refractive index of the prism,
 $$n=\frac{\sin \frac{A+D}{2}}{\sin \frac{A}{2}}...........(4)$$
 
 
-$$n=\\frac{\sin i}{\sin \frac{A}{2}}............(5)$$
+$$n=\frac{\sin i}{\sin \frac{A}{2}}............(5)$$
 
 $$i'=\frac{180-\theta_{2}}{2}$$
 
