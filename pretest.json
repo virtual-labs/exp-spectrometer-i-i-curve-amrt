@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "How does the refractive index changes with wave length ?",
+      "answers": {
+        "a": "Increase with increase in wave length",
+        "b": "Decrease with increase in wave length",
+        "c": "Remains constant",
+        "d": "Exponential decrease"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the velocity of incident ray is less than the velocity of transmitted ray through a medium. Then angle of refraction is _______",
+      "answers": {
+        "a": "Greater than angle of incidence.",
+        "b": "Less than angle of incident.",
+        "c": "Equal to angle of incident.",
+        "d": "There is no angle of refraction."
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
