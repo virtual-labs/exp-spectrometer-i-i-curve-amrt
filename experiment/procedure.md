@@ -76,7 +76,7 @@ A graph is drawn with angle of incidence i along X-axis and the angle of emergen
 ### Procedure for simulator
 - Place the prism using the "Place Prism" button.
 - Adjust the Vernier table using the Vernier Table slider so that the 0°–0° reading appears on Vernier I and the 0°–180° reading appears on Vernier II. Note this as the direct ray reading.
-- For an angle of incidence 𝑖, rotate the Telescope to an angle $𝜃_{2}=180^{0}−2𝑖$ degrees. (For example, for an incident angle of $35^{0}$, set the telescope to $110^{0}$  on Vernier I.).
+- For an angle of incidence 𝑖, rotate the Telescope to an angle $\theta_{2}=180^{0}−2𝑖$ degrees. (For example, for an incident angle of $35^{0}$, set the telescope to $110^{0}$  on Vernier I.).
 - Rotate the Prism Table until the crosswire in the telescope coincides with the slit image (reflected ray). Note the readings on Vernier I and II.
 - To identify the emergent angle i′, rotate the Telescope until the refracted image of the slit from the other face of the prism appears. Align the crosswire with this refracted image and record the Vernier I and II readings.
 - Calculate the angular difference between the direct ray reading and the refracted ray reading to obtain the value of i′.
