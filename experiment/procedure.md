@@ -50,7 +50,7 @@ Spectrometer, equilateral prism, sodium light etc.
 
 
 ### Least Count of Spectrometer
-ne main scale division (N)  =................minute
+One main scale division (N)  =................minute
 
 Number of divisions on vernier (v) = ................
 
