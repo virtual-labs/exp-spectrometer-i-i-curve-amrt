@@ -39,7 +39,7 @@ Spectrometer, equilateral prism, sodium light etc.
     <li>Turn  the telescope towards the white wall or screen and looking through  eye-piece, adjust its position till the cross wires are clearly seen.</li>
     <li>Turn the telescope towards window, focus the telescope to a long distant object.</li>
     <li>Place the telescope parallel to collimator.</li>
-    <li>Place the collimator directed towards sodium vapor lamb. Switch on the lamp.</li>
+    <li>Place the collimator directed towards sodium vapor lamp. Switch on the lamp.</li>
     <li>Focus collimator slit using collimator focusing adjustment.</li>
     <li>Adjust the collimator slit width.</li>
     <li>Place prism table, note that the surface of the table is just below the level of telescope and collimator.</li>
@@ -50,7 +50,7 @@ Spectrometer, equilateral prism, sodium light etc.
 
 
 ### Least Count of Spectrometer
-ne main scale division (N)  =................minute
+One main scale division (N)  =................minute
 
 Number of divisions on vernier (v) = ................
 
