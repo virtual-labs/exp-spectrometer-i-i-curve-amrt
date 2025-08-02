@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "When the angle of the prism changes from 50<sup>0</sup> to 70<sup>0</sup>, then what happens to the minimum deviation ?",
+      "answers": {
+        "a": "Increase",
+        "b": "Decrease",
+        "c": "No change",
+        "d": "Increased by 20<sup>0</sup>"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which among the following phenomena causes the light to change the rectilinear propagation while passing through different mediums?",
+      "answers": {
+        "a": "Diffraction",
+        "b": "Refraction",
+        "c": "Transmission",
+        "d": "Reflection"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the angle of prism decreases. what will happen to the angle of minimum deviation?",
+      "answers": {
+        "a": "same as angle of prism",
+        "b": "decreases",
+        "c": "remains same",
+        "d": "increases"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
